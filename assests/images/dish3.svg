@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
+  <rect width="600" height="400" rx="24" fill="#fecaca"/>
+  <circle cx="300" cy="200" r="120" fill="#93c5fd"/>
+  <text x="300" y="210" text-anchor="middle" font-size="28" font-family="Georgia" fill="#111827">Avocado Toast</text>
+</svg>
