@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Live Jazz Friday",
+    "date": "Every Friday",
+    "image": "event1.svg",
+    "desc": "Smooth live jazz from 8\u201310 PM."
+  },
+  {
+    "title": "Monthly Wine Tasting",
+    "date": "First Sat each month",
+    "image": "event2.svg",
+    "desc": "Curated vineyards, advance booking only."
+  }
+]

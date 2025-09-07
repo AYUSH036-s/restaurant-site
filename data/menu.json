@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Truffle Fries",
+          "price": 220,
+          "desc": "Hand-cut fries, truffle oil, parmesan."
+        },
+        {
+          "name": "Roasted Tomato Soup",
+          "price": 180,
+          "desc": "Basil oil, garlic croutons."
+        }
+      ]
+    },
+    {
+      "name": "Mains",
+      "items": [
+        {
+          "name": "Smoky Charcoal Pizza",
+          "price": 480,
+          "desc": "Wood-fired base, buffalo mozzarella, basil."
+        },
+        {
+          "name": "Herb-Grilled Chicken",
+          "price": 520,
+          "desc": "Lemon butter sauce, seasonal greens."
+        },
+        {
+          "name": "Penne Primavera",
+          "price": 420,
+          "desc": "Garden vegetables, creamy pesto."
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Classic Tiramisu",
+          "price": 260,
+          "desc": "Espresso-soaked ladyfingers, mascarpone."
+        },
+        {
+          "name": "Chocolate Lava Cake",
+          "price": 280,
+          "desc": "Molten center, vanilla ice cream."
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "name": "Cold Brew Coffee",
+          "price": 160,
+          "desc": "Slow-steeped, smooth finish."
+        },
+        {
+          "name": "Seasonal Mocktail",
+          "price": 180,
+          "desc": "Bartender's choice, fresh fruits."
+        }
+      ]
+    }
+  ]
+}
